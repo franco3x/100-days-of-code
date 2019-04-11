@@ -2,7 +2,7 @@
 
 ### Day 1: April 10, 2019
 
-**Today's Progress**: Finished Intro to R on DataCamp.
+**Today's Progress**: Finished Intro to R on DataCamp. Finished 3 sections: factors, data frames, and lists.
 
 **Thoughts:** Fairly routine day. Nothing too tricky. Hopefully I've remembered everything I learned today.
 
