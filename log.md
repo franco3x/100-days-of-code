@@ -2,22 +2,18 @@
 
 ### Day 1: October 7, 2019
 
-**Today's Progress**: Finished Intro to R on DataCamp. Finished 3 sections: factors, data frames, and lists.
+**Today's Progress**: Kind of a 'busy' day. Started PluralSight's interactive SQL course titled, "SQL: Using Joins, Constraints, Normalization, and Subqueries". Got throught the first portion on aggregate functions. I also started and finished the course Python: The Big Picture on PluralSight. It was a very quick course, like an hour long. And I watched it on 2x speed. PluralSight allows you to choose a path and a RoleIQ. The path I've chosen is the Python path, and the RoleIQ I've chosen is Data Analyst (Python). I also read some of the required reading for my SQL class (uCertify). Lastly, I read a little bit of SQL for Dummies. I like that a whole lot more than uCertify.
 
-**Thoughts:** Fairly routine day. Nothing too tricky. Hopefully I've remembered everything I learned today.
+**Thoughts:** The Big Picture is for EXTREME beginners in Python. Even more beginnery than me. I honestly didn't learn too much, but that's ok. It was a quick course. Lord help me with this uCertify course.
 
-**Link to work:** https://twitter.com/franco3x/status/1116186283745906688
-
+**Link to work:** https://app.pluralsight.com/learner/user/courses/python-big-picture/certificate
 
 ### Day 2: October 8, 2019
 
-**Progress**: Most of the progress was reading the data mining material.
+**Today's Progress**: Finally finished reading the first chapter on SQL on uCertify. I think I hate uCertify. Went over relationships and data redundancy. I feel like I don't retain what I read (as evidenced by my flash card score lol). I'll go over over some of it again, and of course, I'll go through the flash cards again.
 
 ### Day 3: October 9, 2019
 
-**Today's Progress**: Intro to Python on DataCamp. 
+**Today's Progress**: Did some more of PluralSight's interactive SQL course titled, "SQL: Using Joins, Constraints, Normalization, and Subqueries". 
 
-Day 9: April 18, 2019
-
-**Today's Progress**: Finished Intro to Python course on DataCamp! Finished the Functions and Packages sections as well as the Numpy section. The way Numpy was explained in the DataCamp course made a lot more sense than when I read about Numpy for class. Doing always beats reading.
 
