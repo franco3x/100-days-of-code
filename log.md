@@ -7,15 +7,20 @@
 **Thoughts:** The Big Picture is for EXTREME beginners in Python. Even more beginnery than me. I honestly didn't learn too much, but that's ok. It was a quick course. Lord help me with this uCertify course.
 
 **Link to work:** https://app.pluralsight.com/learner/user/courses/python-big-picture/certificate
+https://twitter.com/franco3x/status/1182020134636052481
 
 ### Day 2: October 8, 2019
 
 **Today's Progress**: Finally finished reading the first chapter on SQL on uCertify. I think I hate uCertify. Went over relationships and data redundancy. I feel like I don't retain what I read (as evidenced by my flash card score lol). I'll go over over some of it again, and of course, I'll go through the flash cards again.
+
+**Link to work:** https://twitter.com/franco3x/status/1182024807451418624
 
 ### Day 3: October 9, 2019
 
 **Today's Progress**: Finished the 2nd module (Constraints) of PluralSight's interactive SQL course titled, "SQL: Using Joins, Constraints, Normalization, and Subqueries". Very helpful. Went over constraints (duh) such as primary keys and foreign keys. Also discussed check constraints. Started the 3rd module called Normalization & Relationships on my lunch break. This on has me thinking about a 'side' project I'm doing for work. I may have figured out how to address a particular issue I was worried about.
 
 I spoke with my WGU program mentor and he reminded me about the website db-fiddle.com. I will check it out later today.
+
+**Link to work:** https://twitter.com/franco3x/status/1182024809825345536
 
 
