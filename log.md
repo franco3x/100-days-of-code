@@ -14,6 +14,8 @@
 
 ### Day 3: October 9, 2019
 
-**Today's Progress**: Did some more of PluralSight's interactive SQL course titled, "SQL: Using Joins, Constraints, Normalization, and Subqueries". 
+**Today's Progress**: Finished the 2nd module (Constraints) of PluralSight's interactive SQL course titled, "SQL: Using Joins, Constraints, Normalization, and Subqueries". Very helpful. Went over constraints (duh) such as primary keys and foreign keys. Also discussed check constraints. Started the 3rd module called Normalization & Relationships on my lunch break. This on has me thinking about a 'side' project I'm doing for work. I may have figured out how to address a particular issue I was worried about.
+
+I spoke with my WGU program mentor and he reminded me about the website db-fiddle.com. I will check it out later today.
 
 
