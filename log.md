@@ -9,11 +9,11 @@
 **Link to work:** https://twitter.com/franco3x/status/1116186283745906688
 
 
-Days 2-5: April 11-14, 2019
+### Day 2: October 8, 2019
 
 **Progress**: Most of the progress was reading the data mining material.
 
-Day 6-8: April 15-17, 2019
+### Day 3: October 9, 2019
 
 **Today's Progress**: Intro to Python on DataCamp. 
 
