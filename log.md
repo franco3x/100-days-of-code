@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code/Data Science - Log
 
-### Day 1: April 10, 2019
+### Day 1: October 7, 2019
 
 **Today's Progress**: Finished Intro to R on DataCamp. Finished 3 sections: factors, data frames, and lists.
 
