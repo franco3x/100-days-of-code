@@ -1,10 +1,10 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 100 Days Of Data Science Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will do data science stuff for at least an hour every day for the next 100 days.*
 
 #### Start Date
-April 10, 2019. [PUT YOUR DATE HERE]
+October 7, 2019. 
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
