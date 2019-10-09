@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode #100DaysOfDataScience Challenge
 
 ## Contents
 
