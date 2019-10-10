@@ -23,4 +23,8 @@ I spoke with my WGU program mentor and he reminded me about the website db-fiddl
 
 **Link to work:** https://twitter.com/franco3x/status/1182024809825345536
 
+### Day 4: October 10, 2019
 
+**Today's Progress**: Finished PluralSight's interactive SQL course on joins, constraints, normalization, and subqueries. Aliases are so clutch. Also, I need more work on subqueries.
+
+**Link to work:**https://twitter.com/franco3x/status/1182396487692685324
