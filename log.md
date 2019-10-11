@@ -27,8 +27,10 @@ I spoke with my WGU program mentor and he reminded me about the website db-fiddl
 
 **Today's Progress**: Finished PluralSight's interactive SQL course on joins, constraints, normalization, and subqueries. Aliases are so clutch. Also, I need more work on subqueries.
 
-**Link to work:**https://twitter.com/franco3x/status/1182396487692685324
+**Link to work:** https://twitter.com/franco3x/status/1182396487692685324
 
 ### Day 5: October 11, 2019
 
 **Today's Progress**: I decided to go through the SQL training on www.w3schools.com. Of course, the beginning is stuff I already know. Went over SELECT, WHERE, AND, OR, and NOT. The one thing that was new was DISTINCT. The PluralSight training I did used UNIQUE. I think they're essentially the same thing.
+
+**Link to work:** https://twitter.com/franco3x/status/1182770154217836546
