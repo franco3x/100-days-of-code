@@ -34,3 +34,33 @@ I spoke with my WGU program mentor and he reminded me about the website db-fiddl
 **Today's Progress**: I decided to go through the SQL training on www.w3schools.com. Of course, the beginning is stuff I already know. Went over SELECT, WHERE, AND, OR, and NOT. The one thing that was new was DISTINCT. The PluralSight training I did used UNIQUE. I think they're essentially the same thing.
 
 **Link to work:** https://twitter.com/franco3x/status/1182770154217836546
+
+### Day 6: October 14, 2019
+
+**Today's Progress**: Began the 2nd chapter of the uCertify SQL course. It's on the entity relationship model.
+
+**Link to work:** https://twitter.com/franco3x/status/1184104396793077761
+
+
+### Day 7: October 15, 2019
+
+**Today's Progress**: Focused on #SQL today by reading the uCertify material. I also read some material and did some practice exercises on http://w3schools.com. I really enjoy that.
+
+**Link to work:** https://twitter.com/franco3x/status/1184907874587295744
+
+
+### Day 8: October 16, 2019
+
+**Today's Progress**: I read a little bit of #SQL today but decided to take a mini-break to start the Iris dataset project. I decided to use #Python and to do it in Google Colab. It took me a little minute to sync Colab with my G Drive but it works. I also played with http://db-fiddle.com using a list of commands from my course instructor. Everything worked except entering foreign keys while creating a table. I was able to insert an FK after creating the table though.
+
+**Link to work:** https://twitter.com/franco3x/status/1184907876164341760
+
+
+### Day 9: October 17, 2019
+
+**Today's Progress**: Today I finished the Iris dataset project using #python. I think it's mandatory for #datasciencenewbies to run through this project lol I enjoyed it and learned a lot.
+
+Also, this project I'm doing at work is data sciency. I mean, the first thing you have to do in data science is clean the data, right? Well I've been cleaning and cleaning and cleaning lol
+
+**Link to work:** github.com/franco3x/Iris
+https://twitter.com/franco3x/status/1184907879947608066
